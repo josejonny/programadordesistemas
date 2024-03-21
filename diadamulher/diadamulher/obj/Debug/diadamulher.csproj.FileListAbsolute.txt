@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\diadamulher\diadamulher\bin\Debug\diadamulher.exe.config
+C:\Users\Aluno\source\repos\diadamulher\diadamulher\bin\Debug\diadamulher.exe
+C:\Users\Aluno\source\repos\diadamulher\diadamulher\bin\Debug\diadamulher.pdb
+C:\Users\Aluno\source\repos\diadamulher\diadamulher\obj\Debug\diadamulher.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\diadamulher\diadamulher\obj\Debug\diadamulher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\diadamulher\diadamulher\obj\Debug\diadamulher.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\diadamulher\diadamulher\obj\Debug\diadamulher.exe
+C:\Users\Aluno\source\repos\diadamulher\diadamulher\obj\Debug\diadamulher.pdb

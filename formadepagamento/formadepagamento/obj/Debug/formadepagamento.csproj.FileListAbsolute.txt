@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\bin\Debug\formadepagamento.exe.config
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\bin\Debug\formadepagamento.exe
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\bin\Debug\formadepagamento.pdb
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\obj\Debug\formadepagamento.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\obj\Debug\formadepagamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\obj\Debug\formadepagamento.Form1.resources
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\obj\Debug\formadepagamento.Properties.Resources.resources
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\obj\Debug\formadepagamento.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\obj\Debug\formadepagamento.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\obj\Debug\formadepagamento.exe
+C:\Users\Aluno\source\repos\formadepagamento\formadepagamento\obj\Debug\formadepagamento.pdb

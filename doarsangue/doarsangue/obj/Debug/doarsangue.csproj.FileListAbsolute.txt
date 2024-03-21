@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\obj\Debug\doarsangue.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\obj\Debug\doarsangue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\obj\Debug\doarsangue.Form1.resources
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\obj\Debug\doarsangue.Properties.Resources.resources
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\obj\Debug\doarsangue.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\obj\Debug\doarsangue.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\bin\Debug\doarsangue.exe.config
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\bin\Debug\doarsangue.exe
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\bin\Debug\doarsangue.pdb
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\obj\Debug\doarsangue.exe
+C:\Users\Aluno\source\repos\doarsangue\doarsangue\obj\Debug\doarsangue.pdb

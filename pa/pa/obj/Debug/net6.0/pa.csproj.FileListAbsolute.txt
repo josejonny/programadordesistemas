@@ -1,0 +1,5 @@
+C:\Users\Aluno\source\repos\pa\pa\obj\Debug\net6.0\pa.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\pa\pa\obj\Debug\net6.0\pa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\pa\pa\obj\Debug\net6.0\pa.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\pa\pa\obj\Debug\net6.0\pa.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\pa\pa\obj\Debug\net6.0\pa.csproj.CoreCompileInputs.cache

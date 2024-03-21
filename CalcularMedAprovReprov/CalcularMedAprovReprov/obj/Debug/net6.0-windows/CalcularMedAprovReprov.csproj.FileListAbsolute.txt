@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\bin\Debug\net6.0-windows\CalcularMedAprovReprov.exe
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\bin\Debug\net6.0-windows\CalcularMedAprovReprov.deps.json
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\bin\Debug\net6.0-windows\CalcularMedAprovReprov.runtimeconfig.json
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\bin\Debug\net6.0-windows\CalcularMedAprovReprov.dll
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\bin\Debug\net6.0-windows\CalcularMedAprovReprov.pdb
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\CalcularMedAprovReprov.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\CalcularMedAprovReprov.Form1.resources
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\CalcularMedAprovReprov.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\CalcularMedAprovReprov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\CalcularMedAprovReprov.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\CalcularMedAprovReprov.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\CalcularMedAprovReprov.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\CalcularMedAprovReprov.dll
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\refint\CalcularMedAprovReprov.dll
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\CalcularMedAprovReprov.pdb
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\CalcularMedAprovReprov.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\CalcularMedAprovReprov\CalcularMedAprovReprov\obj\Debug\net6.0-windows\ref\CalcularMedAprovReprov.dll

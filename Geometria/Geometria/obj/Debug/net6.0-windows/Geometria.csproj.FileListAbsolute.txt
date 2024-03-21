@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\Geometria.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\Geometria.Form1.resources
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\Geometria.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\Geometria.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\Geometria.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Geometria\Geometria\bin\Debug\net6.0-windows\Geometria.exe
+C:\Users\Aluno\source\repos\Geometria\Geometria\bin\Debug\net6.0-windows\Geometria.deps.json
+C:\Users\Aluno\source\repos\Geometria\Geometria\bin\Debug\net6.0-windows\Geometria.runtimeconfig.json
+C:\Users\Aluno\source\repos\Geometria\Geometria\bin\Debug\net6.0-windows\Geometria.dll
+C:\Users\Aluno\source\repos\Geometria\Geometria\bin\Debug\net6.0-windows\Geometria.pdb
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\Geometria.dll
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\refint\Geometria.dll
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\Geometria.pdb
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\Geometria.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Geometria\Geometria\obj\Debug\net6.0-windows\ref\Geometria.dll

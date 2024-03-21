@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\Eleicao\Eleicao\obj\Debug\Eleicao.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Eleicao\Eleicao\obj\Debug\Eleicao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Eleicao\Eleicao\obj\Debug\Eleicao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Eleicao\Eleicao\bin\Debug\Eleicao.exe.config
+C:\Users\Aluno\source\repos\Eleicao\Eleicao\bin\Debug\Eleicao.exe
+C:\Users\Aluno\source\repos\Eleicao\Eleicao\bin\Debug\Eleicao.pdb
+C:\Users\Aluno\source\repos\Eleicao\Eleicao\obj\Debug\Eleicao.exe
+C:\Users\Aluno\source\repos\Eleicao\Eleicao\obj\Debug\Eleicao.pdb

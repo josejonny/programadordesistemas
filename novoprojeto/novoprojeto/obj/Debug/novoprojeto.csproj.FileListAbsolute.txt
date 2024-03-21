@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.Form1.resources
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.Properties.Resources.resources
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\bin\Debug\novoprojeto.exe.config
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\bin\Debug\novoprojeto.exe
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\bin\Debug\novoprojeto.pdb
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.exe
+C:\Users\Aluno\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.pdb
